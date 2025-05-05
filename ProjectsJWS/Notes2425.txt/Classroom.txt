@@ -1,0 +1,5 @@
+01110,john
+00111,banks
+10001,danks
+00101,don
+00110,moneys

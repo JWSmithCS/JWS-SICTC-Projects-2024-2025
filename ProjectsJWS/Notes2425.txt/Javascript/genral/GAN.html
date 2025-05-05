@@ -1,0 +1,16 @@
+<head>
+    <script>
+        var secret = 4
+        var guess = prompt("guess a number 1-5:")
+
+        while(guess!=secret){
+            if(guess<secret){
+                alert("Guessed to low")
+            } else if(guess>secret){
+                alert("guessed to high")
+            }
+            var guess = prompt("guess a number between 1-5:")
+        }
+    </script>
+
+</head>
